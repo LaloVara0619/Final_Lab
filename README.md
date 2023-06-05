@@ -1,2 +1,1 @@
-# Final_Lab
-Lab 04 Lenguajes y traductores
+El objetivo de este proyecto es apoyar a los estudiantes en la simulación del procesador de un coche robótico, la creación de un lenguaje de programación y el desarrollo de su compilador. El robot tiene ciertas restricciones y el lenguaje de programación debe cumplir unas normas específicas. 
